@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Cricket Score Keeper</string>
+
+    <string name="team_A">Team A</string>
+    <string name="team_B">Team B</string>
+
+    <string name="default_value">0</string>
+    <string name="dash">-</string>
+
+    <string name="btn_add_one">+1 point</string>
+    <string name="btn_add_four">+4 points</string>
+    <string name="btn_add_six">+6 points</string>
+    <string name="btn_add_out">+1 out</string>
+    <string name="btn_reset">Reset</string>
+
+</resources>
